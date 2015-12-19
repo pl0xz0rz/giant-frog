@@ -1,6 +1,6 @@
 require.config({
   paths: {
-    "jquery": "//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min",
+    "jquery": "lib/jquery",
     "game": "src/game",
     "actor": "src/actor",
     "world": "src/world",
